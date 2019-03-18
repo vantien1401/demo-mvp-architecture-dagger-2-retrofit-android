@@ -1,2 +1,2 @@
 # demo-mvp-architecture-dagger-2-retrofit-android<br>
-# Website: https://vntalking.com
+# Bài viết: https://vntalking.com/kien-truc-mvp-trong-android-voi-dagger2-retrofit.html
